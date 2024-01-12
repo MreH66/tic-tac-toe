@@ -1,0 +1,17 @@
+body {
+  margin: 20px;
+  
+}
+
+.mainBox {
+  border:1px solid black;
+
+  height: 80px;
+  width: 80px;
+
+}
+
+.box1 {
+ display:flex;
+ text-align: center;
+}
