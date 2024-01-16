@@ -1,2 +1,1 @@
-Game tic tac toe made in react
-
+Game of tic tac toe in react
